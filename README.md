@@ -20,4 +20,4 @@
 
 - Oscar, mi nombre de usuario en git: [OscarMM24](https://github.com/OscarMM24)
 
--Luis Perez, mi nombre de usuario en github es: [luis-pseudo](https://github.com/luis-pseudo)
+- Luis Perez, mi nombre de usuario en github es: [luis-pseudo](https://github.com/luis-pseudo)
